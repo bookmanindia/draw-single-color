@@ -1,1 +1,0 @@
-# draw-single-color
